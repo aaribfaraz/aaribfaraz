@@ -39,6 +39,7 @@ BSc Computer Science, Constructor University Bremen. Currently based in Germany,
 |------|-----------|
 | [whatabot](https://github.com/aaribfaraz/whatabot) | WhatsApp ordering bot for restaurants — cuts out Lieferando/Uber Eats commission entirely |
 | [ai-document-intelligence](https://github.com/aaribfaraz/ai-document-intelligence) | RAG pipeline for querying institutional documents in natural language |
+| [Advisor-Bot](https://github.com/aaribfaraz/Advisor-Bot) | BSc thesis — NLP chatbot for university handbook queries, GPT-2 + Streamlit |
 | [ai-scheduler](https://github.com/aaribfaraz/ai-scheduler) | AI-assisted employee scheduling for SME operations |
 | [ezshaddi](https://github.com/aaribfaraz/ezshaddi) | Digital wedding planning marketplace — product/UX case study |
 
