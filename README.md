@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarib Faraz Ahmed</h1>
+<h1 align="center">Hi, I'm Aarib Faraz Ahmed</h1>
 <h3 align="center">Business Analyst & Solutions Engineer | AI Systems · Digital Transformation · Pre-Sales</h3>
 
 <p align="center">
