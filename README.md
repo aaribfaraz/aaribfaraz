@@ -13,29 +13,29 @@
 
 ---
 
-🚀 Building AI systems and business tools that actually get deployed — not just demo'd
+Building AI systems and business tools that actually get deployed, not just demo'd
 
-🤖 Specialising in RAG pipelines, LLM-powered applications, and workflow automation for SME operations
+Specialising in RAG pipelines, LLM-powered applications, and workflow automation for SME operations
 
-🔧 Currently working as a Technical Consultant at Red Star Technologies, Bremen — requirements gathering → solution design → deployment → post-go-live support
+Currently working as a Technical Consultant at Red Star Technologies: requirements gathering → solution design → deployment → post-go-live support
 
-🌍 BSc Computer Science, Constructor University Bremen (Merit Scholarship) · Open to roles in Germany & Europe
+BSc Computer Science, Constructor University Bremen (Merit Scholarship) · Open to roles in Germany & Europe
 
-📫 Reach me at **aaribfaraz2002@gmail.com**
+Reach me at **aaribfaraz2002@gmail.com**
 
 ---
 
 <h3 align="left">Core Projects:</h3>
 
-**[What'aBot](https://github.com/aaribfaraz/whatabot)** — WhatsApp-native ordering bot for restaurants. Cuts out Lieferando/Uber Eats commission entirely. Built after working in a restaurant and watching how much revenue disappears to delivery platforms.
+**[What'aBot](https://github.com/aaribfaraz/whatabot)** : WhatsApp-native ordering bot for restaurants. Cuts out Lieferando/Uber Eats commission entirely. Built after working in a restaurant and watching how much revenue disappears to delivery platforms.
 
-**[AI Document Intelligence](https://github.com/aaribfaraz/ai-document-intelligence)** — RAG pipeline for querying institutional documents in natural language. Production-deployed across 15+ educational institutions, handling 2,000+ academic queries.
+**[AI Document Intelligence](https://github.com/aaribfaraz/ai-document-intelligence)** : RAG pipeline for querying institutional documents in natural language. Production-deployed across 15+ educational institutions, handling 2,000+ academic queries.
 
-**[Advisor Bot](https://github.com/aaribfaraz/Advisor-Bot)** — BSc thesis project. NLP chatbot that makes a university handbook queryable in plain English. GPT-2 + T5 + Streamlit.
+**[Advisor Bot](https://github.com/aaribfaraz/Advisor-Bot)** : BSc thesis project. NLP chatbot that makes a university handbook queryable in plain English. GPT-2 + T5 + Streamlit.
 
-**[AI Scheduler](https://github.com/aaribfaraz/ai-scheduler)** — Wave-based employee scheduling system for shift venues. Built for Paddy's Pit Irish Pub Bremen. FastAPI + React, handles mini/part/full-time contracts and seasonal demand.
+**[AI Scheduler](https://github.com/aaribfaraz/ai-scheduler)** : Wave-based employee scheduling system for shift venues. Built for Paddy's Pit Irish Pub Bremen. FastAPI + React, handles mini/part/full-time contracts and seasonal demand.
 
-**[EZ Shaddi](https://github.com/aaribfaraz/EZ-Shaddi)** — Digital wedding planning and vendor marketplace for the Pakistani market. Flutter MVP + Figma product design. Product/UX case study.
+**[EZ Shaddi](https://github.com/aaribfaraz/EZ-Shaddi)** : Digital wedding planning and vendor marketplace for the Pakistani market. Flutter MVP + Figma product design. Product/UX case study.
 
 ---
 
@@ -77,13 +77,13 @@
 
 <h3 align="left">Experience:</h3>
 
-🏢 **Red Star Technologies** — Technical Consultant *(Bremen, 2025–present)*
+🏢 **Red Star Technologies** - Technical Consultant *(Bremen, 2025–present)*
 Requirements gathering → solution design → deployment → post-go-live for SME clients. Technical demos, PoCs, stakeholder workshops, AI-driven feature ideation.
 
-🤖 **Sybrid Pvt. Ltd. (Lakson Group)** — AI Intern *(2023–2024)*
+🤖 **Sybrid Pvt. Ltd. (Lakson Group)** - AI Intern *(2023–2024)*
 Built and deployed a RAG document intelligence system across 15+ educational institutions. Python · LangChain · ChromaDB · NLP.
 
-📊 **Acronis** — Technical Development Representative Intern *(Switzerland, 2022)*
+📊 **Acronis** - Technical Development Representative Intern *(Switzerland, 2022)*
 40+ partner interviews/month. Reported directly to Director of Global Business Development Inside Sales.
 
 ---
