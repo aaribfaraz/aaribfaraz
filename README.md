@@ -7,7 +7,7 @@
   </a>
   &nbsp;
   <a href="mailto:aaribfaraz2002@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
 </p>
 
