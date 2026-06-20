@@ -86,12 +86,3 @@ Built and deployed a RAG document intelligence system across 15+ educational ins
 📊 **Acronis** - Technical Development Representative Intern *(Switzerland, 2022)*
 40+ partner interviews/month. Reported directly to Director of Global Business Development Inside Sales.
 
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaribfaraz&show_icons=true&locale=en&layout=compact&theme=default" alt="aaribfaraz" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaribfaraz&show_icons=true&locale=en&theme=default" alt="aaribfaraz" />
-</p>
